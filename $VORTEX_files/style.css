@@ -2101,7 +2101,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .buy-button {
-  background-color: #fff;
+  background-color: #f5e0ff;
   border-radius: 3em;
   justify-content: center;
   align-items: center;
@@ -2163,7 +2163,7 @@ textarea.w-input, textarea.w-select {
 
 .s-hero {
   opacity: 1;
-  background-image: linear-gradient(#ffffffe6, #e4e4e4cc);
+  background-image: linear-gradient(#d685fcd6, #d685fcd6);
   flex-flow: column;
   justify-content: flex-start;
   align-items: center;
@@ -2350,7 +2350,7 @@ textarea.w-input, textarea.w-select {
 .d-face-of {
   color: #fff;
   text-shadow: 0 0 12px #000;
-  background-color: #fff;
+  background-color: #e2adfbda;
   border-radius: 3em;
   width: 100%;
   height: 100%;
@@ -2381,7 +2381,7 @@ textarea.w-input, textarea.w-select {
 .text-block-22 {
   color: #000;
   text-shadow: none;
-  font-size: 40px;
+  font-size: 32px;
 }
 
 .div-block-13 {
@@ -2404,7 +2404,7 @@ textarea.w-input, textarea.w-select {
 .d-face-of-2 {
   color: #fff;
   text-shadow: 0 0 12px #000;
-  background-color: #fff;
+  background-color: #e2adfbda;
   border-radius: 3em;
   width: 100%;
   height: 100%;
@@ -2422,7 +2422,7 @@ textarea.w-input, textarea.w-select {
 .text-block-24 {
   color: #000;
   text-shadow: none;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 40px;
 }
 
@@ -2502,7 +2502,7 @@ textarea.w-input, textarea.w-select {
 
 .d-face-of-3 {
   color: #fff;
-  background-color: #fff;
+  background-color: #e2adfbda;
   border-radius: 3em;
   width: 100%;
   height: 100%;
@@ -2531,7 +2531,7 @@ textarea.w-input, textarea.w-select {
 
 .text-block-28 {
   color: #000;
-  font-size: 40px;
+  font-size: 32px;
 }
 
 .div-block-18 {
@@ -2548,7 +2548,7 @@ textarea.w-input, textarea.w-select {
 
 .d-face-of-4 {
   color: #000;
-  background-color: #fff;
+  background-color: #e2adfbda;
   border-radius: 3em;
   width: 100%;
   height: 100%;
@@ -2558,7 +2558,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .text-block-30 {
-  font-size: 38px;
+  font-size: 32px;
 }
 
 .div-block-19 {
@@ -2631,7 +2631,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .buy-button-fdddd {
-  background-color: #fff;
+  background-color: #f5e0ff;
   border-radius: 3em;
   justify-content: center;
   align-items: center;
@@ -2693,14 +2693,14 @@ textarea.w-input, textarea.w-select {
 
 .text-block-35 {
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(#00071a, #fff);
+  background-image: linear-gradient(#da9bf8, #ffffff);
   -webkit-background-clip: text;
   background-clip: text;
   justify-content: center;
   align-items: center;
   height: 370px;
   margin-bottom: 372px;
-  font-size: 420px;
+  font-size: 250px;
   display: flex;
   position: absolute;
 }
@@ -2933,7 +2933,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .buy-button-x {
-  background-color: #fff;
+  background-color: #f5e0ff;
   border-radius: 3em;
   justify-content: center;
   align-items: center;
@@ -2972,7 +2972,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .buy-button-t {
-  background-color: #fff;
+  background-color: #f5e0ff;
   border-radius: 3em;
   justify-content: center;
   align-items: center;
